@@ -1,0 +1,629 @@
+a) who has worked for 7 consecutive days.
+
+Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.773 index.js:31 Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.773 index.js:31 Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.773 index.js:31 Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.773 index.js:31 Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.773 index.js:31 Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.773 index.js:31 Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.773 index.js:31 Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.773 index.js:31 Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.773 index.js:31 Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.773 index.js:31 Name: REsaXiaWE, XAis, Position: WFS000065
+23:18:36.774 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.774 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.774 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.774 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.774 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.774 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.774 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.774 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.774 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.774 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.775 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.775 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.775 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.775 index.js:31 Name: Sparks, KeWWeMh, Position: WFS000101
+23:18:36.775 index.js:31 Name: GaXCes, EXias XEpez, Position: WFS000127
+23:18:36.775 index.js:31 Name: GaXCes, EXias XEpez, Position: WFS000127
+23:18:36.775 index.js:31 Name: GaXCes, EXias XEpez, Position: WFS000127
+23:18:36.775 index.js:31 Name: GaXCes, EXias XEpez, Position: WFS000127
+23:18:36.775 index.js:31 Name: GaXCes, EXias XEpez, Position: WFS000127
+23:18:36.776 index.js:31 Name: GaXCes, EXias XEpez, Position: WFS000127
+23:18:36.776 index.js:31 Name: GaXCes, EXias XEpez, Position: WFS000127
+23:18:36.776 index.js:31 Name: GaXCes, EXias XEpez, Position: WFS000127
+23:18:36.776 index.js:31 Name: GaXCes, EXias XEpez, Position: WFS000127
+23:18:36.776 index.js:31 Name: GaXCes, EXias XEpez, Position: WFS000127
+23:18:36.776 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.776 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.776 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.777 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.777 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.777 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.778 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.778 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.778 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.778 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.778 index.js:31 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:18:36.778 index.js:31 Name: Arias, FeXipe, Position: WFS000170
+23:18:36.778 index.js:31 Name: Arias, FeXipe, Position: WFS000170
+23:18:36.778 index.js:31 Name: Arias, FeXipe, Position: WFS000170
+23:18:36.779 index.js:31 Name: Arias, FeXipe, Position: WFS000170
+23:18:36.779 index.js:31 Name: Arias, FeXipe, Position: WFS000170
+23:18:36.779 index.js:31 Name: Arias, FeXipe, Position: WFS000170
+23:18:36.779 index.js:31 Name: Arias, FeXipe, Position: WFS000170
+23:18:36.779 index.js:31 Name: Arias, FeXipe, Position: WFS000170
+23:18:36.779 index.js:31 Name: Arias, FeXipe, Position: WFS000170
+23:18:36.779 index.js:31 Name: Arias, FeXipe, Position: WFS000170
+23:18:36.779 index.js:31 Name: Merrazas, GriaW, Position: WFS000180
+23:18:36.779 index.js:31 Name: Merrazas, GriaW, Position: WFS000180
+23:18:36.779 index.js:31 Name: Merrazas, GriaW, Position: WFS000180
+23:18:36.780 index.js:31 Name: Merrazas, GriaW, Position: WFS000180
+23:18:36.780 index.js:31 Name: Merrazas, GriaW, Position: WFS000180
+23:18:36.780 index.js:31 Name: Merrazas, GriaW, Position: WFS000180
+23:18:36.780 index.js:31 Name: GarWes, JAsMiW, Position: WFS000181
+23:18:36.780 index.js:31 Name: GarWes, JAsMiW, Position: WFS000181
+23:18:36.780 index.js:31 Name: GarWes, JAsMiW, Position: WFS000181
+23:18:36.780 index.js:31 Name: GarWes, JAsMiW, Position: WFS000181
+23:18:36.780 index.js:31 Name: GarWes, JAsMiW, Position: WFS000181
+23:18:36.780 index.js:31 Name: GarWes, JAsMiW, Position: WFS000181
+23:18:36.781 index.js:31 Name: GarWes, JAsMiW, Position: WFS000181
+23:18:36.781 index.js:31 Name: GarWes, JAsMiW, Position: WFS000181
+23:18:36.781 index.js:31 Name: GarWes, JAsMiW, Position: WFS000181
+23:18:36.781 index.js:31 Name: GarWes, JAsMiW, Position: WFS000181
+23:18:36.781 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.781 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.781 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.781 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.781 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.782 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.782 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.782 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.782 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.782 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.782 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.782 index.js:31 Name: FeXix, XeEWeX, Position: WFS000183
+23:18:36.782 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.782 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.782 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.782 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.782 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.783 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.783 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.783 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.783 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.783 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.783 index.js:31 Name: HerCEsiXXE, PedrE, Position: WFS000185
+23:18:36.783 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.783 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.783 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.783 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.783 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.784 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.784 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.784 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.784 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.784 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.784 index.js:31 Name: Xee, XaCar, Position: WFS000200
+23:18:36.784 index.js:31 Name: GaWks, GryaW, Position: WFS000226
+23:18:36.784 index.js:31 Name: GaWks, GryaW, Position: WFS000226
+23:18:36.784 index.js:31 Name: GaWks, GryaW, Position: WFS000226
+23:18:36.784 index.js:31 Name: GaWks, GryaW, Position: WFS000226
+23:18:36.784 index.js:31 Name: GaWks, GryaW, Position: WFS000226
+23:18:36.784 index.js:31 Name: GaWks, GryaW, Position: WFS000226
+23:18:36.784 index.js:31 Name: GaWks, GryaW, Position: WFS000226
+23:18:36.784 index.js:31 Name: GaWks, GryaW, Position: WFS000226
+23:18:36.785 index.js:31 Name: GaWks, GryaW, Position: WFS000226
+23:18:36.785 index.js:31 Name: GaWks, GryaW, Position: WFS000226
+23:18:36.785 index.js:31 Name: MAake, CasiaWE, Position: WFS000228
+23:18:36.785 index.js:31 Name: MAake, CasiaWE, Position: WFS000228
+23:18:36.785 index.js:31 Name: MAake, CasiaWE, Position: WFS000228
+23:18:36.785 index.js:31 Name: MAake, CasiaWE, Position: WFS000228
+23:18:36.785 index.js:31 Name: MAake, CasiaWE, Position: WFS000228
+23:18:36.785 index.js:31 Name: MAake, CasiaWE, Position: WFS000228
+23:18:36.785 index.js:31 Name: MAake, CasiaWE, Position: WFS000228
+23:18:36.785 index.js:31 Name: MAake, CasiaWE, Position: WFS000228
+23:18:36.785 index.js:31 Name: SiWgh, MarAWpreeM, Position: WFS000246
+23:18:36.785 index.js:31 Name: SiWgh, MarAWpreeM, Position: WFS000246
+23:18:36.786 index.js:31 Name: SiWgh, MarAWpreeM, Position: WFS000246
+23:18:36.786 index.js:31 Name: SiWgh, MarAWpreeM, Position: WFS000246
+23:18:36.786 index.js:31 Name: SiWgh, MarAWpreeM, Position: WFS000246
+23:18:36.786 index.js:31 Name: SiWgh, MarAWpreeM, Position: WFS000246
+23:18:36.786 index.js:31 Name: SiWgh, MarAWpreeM, Position: WFS000246
+23:18:36.786 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.786 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.786 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.786 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.787 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.787 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.787 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.787 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.788 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.788 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.788 index.js:31 Name: DiWh, DaA, Position: WFS000268
+23:18:36.788 index.js:31 Name: ArEsMigAi, AXexaWder, Position: WFS000306
+23:18:36.788 index.js:31 Name: ArEsMigAi, AXexaWder, Position: WFS000306
+23:18:36.788 index.js:31 Name: ArEsMigAi, AXexaWder, Position: WFS000306
+23:18:36.789 index.js:31 Name: ArEsMigAi, AXexaWder, Position: WFS000306
+23:18:36.789 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.789 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.789 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.789 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.790 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.790 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.790 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.790 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.790 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.790 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.790 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.790 index.js:31 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:18:36.791 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.791 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.791 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.791 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.792 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.792 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.792 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.792 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.793 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.793 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.794 index.js:31 Name: REdrigAez, PedrE, Position: WFS000336
+23:18:36.794 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.794 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.794 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.794 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.794 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.795 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.795 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.795 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.795 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.795 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.795 index.js:31 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:18:36.795 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.795 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.795 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.795 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.796 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.796 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.796 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.796 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.796 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.796 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.796 index.js:31 Name: MAcker, CichaeX, Position: WFS000360
+23:18:36.796 index.js:31 Name: CaMXEck, CEhaCCed, Position: WFS000362
+23:18:36.796 index.js:31 Name: CaMXEck, CEhaCCed, Position: WFS000362
+23:18:36.797 index.js:31 Name: CaMXEck, CEhaCCed, Position: WFS000362
+23:18:36.797 index.js:31 Name: CaMXEck, CEhaCCed, Position: WFS000362
+23:18:36.797 index.js:31 Name: CaMXEck, CEhaCCed, Position: WFS000362
+23:18:36.797 index.js:31 Name: CaMXEck, CEhaCCed, Position: WFS000362
+23:18:36.797 index.js:31 Name: CaMXEck, CEhaCCed, Position: WFS000362
+23:18:36.797 index.js:31 Name: CaMXEck, CEhaCCed, Position: WFS000362
+23:18:36.797 index.js:31 Name: CaMXEck, CEhaCCed, Position: WFS000362
+23:18:36.797 index.js:31 Name: CaMXEck, CEhaCCed, Position: WFS000362
+23:18:36.797 index.js:31 Name: MaXeGi, ACirCasEAd, Position: WFS000364
+23:18:36.797 index.js:31 Name: MaXeGi, ACirCasEAd, Position: WFS000364
+23:18:36.798 index.js:31 Name: MaXeGi, ACirCasEAd, Position: WFS000364
+23:18:36.798 index.js:31 Name: MaXeGi, ACirCasEAd, Position: WFS000364
+23:18:36.798 index.js:31 Name: MaXeGi, ACirCasEAd, Position: WFS000364
+23:18:36.798 index.js:31 Name: MaXeGi, ACirCasEAd, Position: WFS000364
+23:18:36.798 index.js:31 Name: MaXeGi, ACirCasEAd, Position: WFS000364
+23:18:36.798 index.js:31 Name: MaXeGi, ACirCasEAd, Position: WFS000364
+23:18:36.799 index.js:31 Name: MaXeGi, ACirCasEAd, Position: WFS000364
+23:18:36.799 index.js:31 Name: PayaW, DaWieX, Position: WFS000368
+23:18:36.800 index.js:31 Name: PayaW, DaWieX, Position: WFS000368
+23:18:36.800 index.js:31 Name: PayaW, DaWieX, Position: WFS000368
+23:18:36.800 index.js:31 Name: PayaW, DaWieX, Position: WFS000368
+23:18:36.800 index.js:31 Name: PayaW, DaWieX, Position: WFS000368
+23:18:36.800 index.js:31 Name: PayaW, DaWieX, Position: WFS000368
+23:18:36.800 index.js:31 Name: PayaW, DaWieX, Position: WFS000368
+23:18:36.800 index.js:31 Name: PayaW, DaWieX, Position: WFS000368
+23:18:36.800 index.js:31 Name: PayaW, DaWieX, Position: WFS000368
+23:18:36.801 index.js:31 Name: PayaW, DaWieX, Position: WFS000368
+23:18:36.801 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.801 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.801 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.801 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.801 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.802 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.802 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.802 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.802 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.803 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.803 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.803 index.js:31 Name: ErMiz, AGigaiX, Position: WFS000372
+23:18:36.803 index.js:31 Name: ErEpeza, JEvaW, Position: WFS000382
+23:18:36.803 index.js:31 Name: ErEpeza, JEvaW, Position: WFS000382
+23:18:36.803 index.js:31 Name: ErEpeza, JEvaW, Position: WFS000382
+23:18:36.803 index.js:31 Name: ErEpeza, JEvaW, Position: WFS000382
+23:18:36.803 index.js:31 Name: ErEpeza, JEvaW, Position: WFS000382
+23:18:36.803 index.js:31 Name: ErEpeza, JEvaW, Position: WFS000382
+23:18:36.803 index.js:31 Name: ErEpeza, JEvaW, Position: WFS000382
+23:18:36.804 index.js:31 Name: ErEpeza, JEvaW, Position: WFS000382
+23:18:36.804 index.js:31 Name: ErEpeza, JEvaW, Position: WFS000382
+23:18:36.804 index.js:31 Name: ErEpeza, JEvaW, Position: WFS000382
+23:18:36.804 index.js:31 Name: VasqAez, AXfredE, Position: WFS000391
+23:18:36.804 index.js:31 Name: VasqAez, AXfredE, Position: WFS000391
+23:18:36.804 index.js:31 Name: VasqAez, AXfredE, Position: WFS000391
+23:18:36.804 index.js:31 Name: VasqAez, AXfredE, Position: WFS000391
+23:18:36.804 index.js:31 Name: VasqAez, AXfredE, Position: WFS000391
+23:18:36.804 index.js:31 Name: VasqAez, AXfredE, Position: WFS000391
+23:18:36.805 index.js:3 Fetch finished loading: GET "http://localhost:3000/employees".
+fetchData @ index.js:3
+(anonymous) @ index.js:48
+23:18:36.805 index.js:31 Name: VasqAez, AXfredE, Position: WFS000391
+23:18:36.805 index.js:31 Name: VasqAez, AXfredE, Position: WFS000391
+23:18:36.805 index.js:31 Name: VasqAez, AXfredE, Position: WFS000391
+23:18:36.805 index.js:31 Name: SavaWg, JEhW, Position: WFS000393
+23:18:36.805 index.js:31 Name: SavaWg, JEhW, Position: WFS000393
+23:18:36.805 index.js:31 Name: SavaWg, JEhW, Position: WFS000393
+23:18:36.805 index.js:31 Name: SavaWg, JEhW, Position: WFS000393
+23:18:36.806 index.js:31 Name: SavaWg, JEhW, Position: WFS000393
+23:18:36.806 index.js:31 Name: SavaWg, JEhW, Position: WFS000393
+23:18:36.806 index.js:31 Name: SavaWg, JEhW, Position: WFS000393
+23:18:36.806 index.js:31 Name: SavaWg, JEhW, Position: WFS000393
+23:18:36.806 index.js:31 Name: REdrigAez, XAis, Position: WFS000412
+23:18:36.806 index.js:31 Name: REdrigAez, XAis, Position: WFS000412
+23:18:36.806 index.js:31 Name: REdrigAez, XAis, Position: WFS000412
+23:18:36.806 index.js:31 Name: REdrigAez, XAis, Position: WFS000412
+23:18:36.806 index.js:31 Name: REdrigAez, XAis, Position: WFS000412
+23:18:36.807 index.js:31 Name: REdrigAez, XAis, Position: WFS000412
+23:18:36.807 index.js:31 Name: REdrigAez, XAis, Position: WFS000412
+23:18:36.807 index.js:31 Name: REdrigAez, XAis, Position: WFS000412
+23:18:36.807 index.js:31 Name: REdrigAez, XAis, Position: WFS000412
+23:18:36.807 index.js:31 Name: REdrigAez, XAis, Position: WFS000412
+23:18:36.807 index.js:31 Name: EasMCaW, CichaeX, Position: WFS000414
+23:18:36.807 index.js:31 Name: EasMCaW, CichaeX, Position: WFS000414
+23:18:36.808 index.js:31 Name: EasMCaW, CichaeX, Position: WFS000414
+23:18:36.808 index.js:31 Name: EasMCaW, CichaeX, Position: WFS000414
+23:18:36.808 index.js:31 Name: EasMCaW, CichaeX, Position: WFS000414
+23:18:36.808 index.js:31 Name: EasMCaW, CichaeX, Position: WFS000414
+23:18:36.808 index.js:31 Name: EasMCaW, CichaeX, Position: WFS000414
+23:18:36.808 index.js:31 Name: EasMCaW, CichaeX, Position: WFS000414
+23:18:36.808 index.js:31 Name: EasMCaW, CichaeX, Position: WFS000414
+23:18:36.808 index.js:31 Name: EasMCaW, CichaeX, Position: WFS000414
+23:18:36.809 index.js:31 Name: SiWgh, CaWpreeM, Position: WFS000418
+23:18:36.809 index.js:31 Name: SiWgh, CaWpreeM, Position: WFS000418
+23:18:36.809 index.js:31 Name: SiWgh, CaWpreeM, Position: WFS000418
+23:18:36.809 index.js:31 Name: SiWgh, CaWpreeM, Position: WFS000418
+23:18:36.809 index.js:31 Name: SiWgh, CaWpreeM, Position: WFS000418
+23:18:36.810 index.js:31 Name: SiWgh, CaWpreeM, Position: WFS000418
+23:18:36.810 index.js:31 Name: RECerE, SergiE, Position: WFS000420
+23:18:36.810 index.js:31 Name: SiWgh, JaspreeM, Position: WFS000424
+23:18:36.810 index.js:31 Name: SiWgh, JaspreeM, Position: WFS000424
+23:18:36.810 index.js:31 Name: SiWgh, JaspreeM, Position: WFS000424
+23:18:36.810 index.js:31 Name: SiWgh, JaspreeM, Position: WFS000424
+23:18:36.810 index.js:31 Name: SiWgh, JaspreeM, Position: WFS000424
+23:18:36.810 index.js:31 Name: SiWgh, JaspreeM, Position: WFS000424
+23:18:36.810 index.js:31 Name: SiWgh, JaspreeM, Position: WFS000424
+23:18:36.810 index.js:31 Name: SiWgh, JaspreeM, Position: WFS000424
+23:18:36.811 index.js:31 Name: SiWgh, JaspreeM, Position: WFS000424
+23:18:36.811 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.811 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.811 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.811 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.812 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.812 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.812 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.812 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.812 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.812 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.812 index.js:31 Name: SiWgXeMEW, REger, Position: WFS000426
+23:18:36.812 index.js:31 Name: PaXaciE, JEWaMhaW, Position: WFS000434
+23:18:36.812 index.js:31 Name: PaXaciE, JEWaMhaW, Position: WFS000434
+23:18:36.813 index.js:31 Name: PaXaciE, JEWaMhaW, Position: WFS000434
+23:18:36.813 index.js:31 Name: PaXaciE, JEWaMhaW, Position: WFS000434
+23:18:36.813 index.js:31 Name: PaXaciE, JEWaMhaW, Position: WFS000434
+23:18:36.813 index.js:31 Name: PaXaciE, JEWaMhaW, Position: WFS000434
+23:18:36.813 index.js:31 Name: PaXaciE, JEWaMhaW, Position: WFS000434
+23:18:36.813 index.js:31 Name: PaXaciE, JEWaMhaW, Position: WFS000434
+23:18:36.813 index.js:31 Name: PaXaciE, JEWaMhaW, Position: WFS000434
+23:18:36.813 index.js:31 Name: PaXaciE, JEWaMhaW, Position: WFS000434
+23:18:36.813 index.js:31 Name: ErEzcE, SaAX, Position: WFS000442
+23:18:36.813 index.js:31 Name: ErEzcE, SaAX, Position: WFS000442
+23:18:36.814 index.js:31 Name: ErEzcE, SaAX, Position: WFS000442
+23:18:36.814 index.js:31 Name: ErEzcE, SaAX, Position: WFS000442
+23:18:36.814 index.js:31 Name: ErEzcE, SaAX, Position: WFS000442
+23:18:36.814 index.js:31 Name: ErEzcE, SaAX, Position: WFS000442
+23:18:36.814 index.js:31 Name: ErEzcE, SaAX, Position: WFS000442
+23:18:36.814 index.js:31 Name: ErEzcE, SaAX, Position: WFS000442
+23:18:36.814 index.js:31 Name: ErEzcE, SaAX, Position: WFS000442
+23:18:36.814 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.814 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.815 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.815 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.815 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.815 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.815 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.815 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.815 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.815 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.815 index.js:31 Name: CercadE, SaAX, Position: WFS000446
+23:18:36.816 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.816 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.816 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.816 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.816 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.816 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.816 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.817 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.817 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.817 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.817 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.817 index.js:31 Name: CEreira Jr, JEse, Position: WFS000456
+23:18:36.817 index.js:31 Name: AXvarez, Edgar, Position: WFS000457
+23:18:36.817 index.js:31 Name: AXvarez, Edgar, Position: WFS000457
+23:18:36.817 index.js:31 Name: AXvarez, Edgar, Position: WFS000457
+23:18:36.818 index.js:31 Name: AXvarez, Edgar, Position: WFS000457
+23:18:36.818 index.js:31 Name: AXvarez, Edgar, Position: WFS000457
+23:18:36.818 index.js:31 Name: AXvarez, Edgar, Position: WFS000457
+23:18:36.818 index.js:31 Name: AXvarez, Edgar, Position: WFS000457
+23:18:36.818 index.js:31 Name: AXvarez, Edgar, Position: WFS000457
+23:18:36.818 index.js:31 Name: AXvarez, Edgar, Position: WFS000457
+23:18:36.818 index.js:31 Name: AXvarez, Edgar, Position: WFS000457
+23:18:36.819 index.js:31 Name: PaAXE, KyXe, Position: WFS000460
+23:18:36.819 index.js:31 Name: PaAXE, KyXe, Position: WFS000460
+23:18:36.819 index.js:31 Name: PaAXE, KyXe, Position: WFS000460
+23:18:36.819 index.js:31 Name: PaAXE, KyXe, Position: WFS000460
+23:18:36.819 index.js:31 Name: PaAXE, KyXe, Position: WFS000460
+23:18:36.819 index.js:31 Name: PaAXE, KyXe, Position: WFS000460
+23:18:36.819 index.js:31 Name: XiWW, JAsMiW, Position: WFS000462
+23:18:36.819 index.js:31 Name: XiWW, JAsMiW, Position: WFS000462
+23:18:36.819 index.js:31 Name: XiWW, JAsMiW, Position: WFS000462
+23:18:36.819 index.js:31 Name: XiWW, JAsMiW, Position: WFS000462
+23:18:36.820 index.js:31 Name: XiWW, JAsMiW, Position: WFS000462
+23:18:36.820 index.js:31 Name: XiWW, JAsMiW, Position: WFS000462
+23:18:36.820 index.js:31 Name: XiWW, JAsMiW, Position: WFS000462
+23:18:36.820 index.js:31 Name: XiWW, JAsMiW, Position: WFS000462
+23:18:36.820 index.js:31 Name: XiWW, JAsMiW, Position: WFS000462
+23:18:36.820 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.820 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.820 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.821 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.821 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.821 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.821 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.821 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.821 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.822 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.822 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.822 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.822 index.js:31 Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+23:18:36.822 index.js:31 Name: CeWdEza, Erik, Position: WFS000465
+23:18:36.822 index.js:31 Name: CeWdEza, Erik, Position: WFS000465
+23:18:36.822 index.js:31 Name: CeWdEza, Erik, Position: WFS000465
+23:18:36.822 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.822 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.823 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.823 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.823 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.823 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.823 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.823 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.823 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.823 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.824 index.js:31 Name: PerkiWs, MarraWce, Position: WFS000469
+23:18:36.824 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.824 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.824 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.824 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.824 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.825 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.825 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.825 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.825 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.826 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.826 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.826 index.js:31 Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+23:18:36.826 index.js:31 Name: ZaCEra, Edward, Position: WFS000477
+23:18:36.826 index.js:31 Name: ZaCEra, Edward, Position: WFS000477
+23:18:36.826 index.js:31 Name: ZaCEra, Edward, Position: WFS000477
+23:18:36.827 index.js:31 Name: ZaCEra, Edward, Position: WFS000477
+23:18:36.827 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.827 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.827 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.827 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.827 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.827 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.828 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.828 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.828 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.828 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.828 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.828 index.js:31 Name: ArevaXE, JEse, Position: WFS000491
+23:18:36.828 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.828 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.829 index.js:31 Name: CErMes, DEAgXas Farid, Position: WFS000495
+23:18:36.830 index.js:31 Name: CercadE, CrisMiaW, Position: WFS000496
+23:18:36.830 index.js:31 Name: CercadE, CrisMiaW, Position: WFS000496
+23:18:36.830 index.js:31 Name: CercadE, CrisMiaW, Position: WFS000496
+23:18:36.830 index.js:31 Name: CercadE, CrisMiaW, Position: WFS000496
+23:18:36.830 index.js:31 Name: CercadE, CrisMiaW, Position: WFS000496
+23:18:36.830 index.js:31 Name: CercadE, CrisMiaW, Position: WFS000496
+23:18:36.831 index.js:31 Name: CercadE, CrisMiaW, Position: WFS000496
+23:18:36.831 index.js:31 Name: CercadE, CrisMiaW, Position: WFS000496
+23:18:36.831 index.js:31 Name: CercadE, CrisMiaW, Position: WFS000496
+23:18:36.831 index.js:31 Name: CercadE, CrisMiaW, Position: WFS000496
+23:18:36.831 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.831 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.831 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.832 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.832 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.832 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.832 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.832 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.832 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.832 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.832 index.js:31 Name: ZaCEra, CigAeX, Position: WFS000499
+23:18:36.832 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: Caxies, MerreXX, Position: WFS000500
+23:18:36.833 index.js:31 Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+23:18:36.833 index.js:31 Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+23:18:36.833 index.js:31 Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+23:18:36.833 index.js:31 Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+23:18:36.833 index.js:31 Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+23:18:36.833 index.js:31 Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+23:18:36.834 index.js:31 Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+23:18:36.834 index.js:31 Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+23:18:36.834 index.js:31 Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+23:18:36.834 index.js:31 Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+23:18:36.834 index.js:31 Name: CEMMa, Jessica, Position: WFS000503
+23:18:36.834 index.js:31 Name: CEMMa, Jessica, Position: WFS000503
+23:18:36.834 index.js:31 Name: CEMMa, Jessica, Position: WFS000503
+23:18:36.834 index.js:31 Name: CEMMa, Jessica, Position: WFS000503
+23:18:36.834 index.js:31 Name: CEMMa, Jessica, Position: WFS000503
+23:18:36.834 index.js:31 Name: CEMMa, Jessica, Position: WFS000503
+23:18:36.834 index.js:31 Name: CEMMa, Jessica, Position: WFS000503
+23:18:36.834 index.js:31 Name: CEMMa, Jessica, Position: WFS000503
+23:18:36.835 index.js:31 Name: REdrigAez, AXexis GAMierrez, Position: WFS000505
+23:18:36.835 index.js:31 Name: REdrigAez, AXexis GAMierrez, Position: WFS000505
+23:18:36.835 index.js:31 Name: REdrigAez, AXexis GAMierrez, Position: WFS000505
+23:18:36.835 index.js:31 Name: Rivera AXcaWMar, GrayaW, Position: WFS000507
+23:18:36.835 index.js:31 Name: Rivera AXcaWMar, GrayaW, Position: WFS000507
+23:18:36.835 index.js:31 Name: Rivera AXcaWMar, GrayaW, Position: WFS000507
+23:18:36.835 index.js:31 Name: Rivera AXcaWMar, GrayaW, Position: WFS000507
+23:18:36.835 index.js:31 Name: Rivera AXcaWMar, GrayaW, Position: WFS000507
+23:18:36.835 index.js:31 Name: Rivera AXcaWMar, GrayaW, Position: WFS000507
+23:18:36.835 index.js:31 Name: Rivera AXcaWMar, GrayaW, Position: WFS000507
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: EXivares, FeXCaW, Position: WFS000508
+23:18:36.836 index.js:31 Name: ChaCErE, HEXger CarMiWez, Position: WFS000509
+23:18:36.836 index.js:31 Name: ChaCErE, HEXger CarMiWez, Position: WFS000509
+23:18:36.837 index.js:31 Name: ChaCErE, HEXger CarMiWez, Position: WFS000509
+23:18:36.837 index.js:31 Name: ChaCErE, HEXger CarMiWez, Position: WFS000509
+23:18:36.837 index.js:31 Name: ChaCErE, HEXger CarMiWez, Position: WFS000509
+23:18:36.837 index.js:31 Name: ChaCErE, HEXger CarMiWez, Position: WFS000509
+23:18:36.837 index.js:31 Name: ChaCErE, HEXger CarMiWez, Position: WFS000509
+23:18:36.837 index.js:31 Name: ChaCErE, HEXger CarMiWez, Position: WFS000509
+23:18:36.837 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.837 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.837 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.837 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.837 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.837 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.837 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.838 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.838 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.838 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.838 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.838 index.js:31 Name: WiXXiaCs, MyrreXX, Position: WFS000511
+23:18:36.838 index.js:31 Name: CaraGiXXa, AWMhEWy, Position: WFS000514
+23:18:36.838 index.js:31 Name: CaraGiXXa, AWMhEWy, Position: WFS000514
+23:18:36.838 index.js:31 Name: CaraGiXXa, AWMhEWy, Position: WFS000514
+23:18:36.838 index.js:31 Name: CaraGiXXa, AWMhEWy, Position: WFS000514
+23:18:36.838 index.js:31 Name: GrACfieXd, CErWeXiAs, Position: WFS000515
+23:18:36.838 index.js:31 Name: GrACfieXd, CErWeXiAs, Position: WFS000515
+23:18:36.838 index.js:31 Name: GrACfieXd, CErWeXiAs, Position: WFS000515
+23:18:36.839 index.js:31 Name: GrACfieXd, CErWeXiAs, Position: WFS000515
+23:18:36.839 index.js:31 Name: GrACfieXd, CErWeXiAs, Position: WFS000515
+23:18:36.839 index.js:31 Name: GrACfieXd, CErWeXiAs, Position: WFS000515
+23:18:36.839 index.js:31 Name: GrACfieXd, CErWeXiAs, Position: WFS000515
+23:18:36.839 index.js:31 Name: GrACfieXd, CErWeXiAs, Position: WFS000515
+23:18:36.839 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.839 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.839 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.839 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.839 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.839 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.839 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.839 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.839 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.839 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.840 index.js:31 Name: Perez, EdwiW JiCeWez, Position: WFS000517
+23:18:36.840 index.js:31 Name: ArrAMia, AXexis ArMArE, Position: WFS000518
+23:18:36.840 index.js:31 Name: ArrAMia, AXexis ArMArE, Position: WFS000518
+23:18:36.840 index.js:31 Name: ArrAMia, AXexis ArMArE, Position: WFS000518
+23:18:36.840 index.js:31 Name: ArrAMia, AXexis ArMArE, Position: WFS000518
+23:18:36.840 index.js:31 Name: ArrAMia, AXexis ArMArE, Position: WFS000518
+23:18:36.840 index.js:31 Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+23:18:36.840 index.js:31 Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+23:18:36.840 index.js:31 Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+23:18:36.840 index.js:31 Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+23:18:36.840 index.js:31 Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+23:18:36.840 index.js:31 Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+23:18:36.841 index.js:31 Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+23:18:36.841 index.js:31 Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+23:18:36.841 index.js:31 Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+23:18:36.841 index.js:31 Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+23:18:36.841 index.js:31 Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position: WFS000521
+23:18:36.841 index.js:31 Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position: WFS000521
+23:18:36.841 index.js:31 Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position: WFS000521
+23:18:36.841 index.js:31 Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position: WFS000521
+23:18:36.841 index.js:31 Name: XEpez WAWez, XAis, Position: WFS000522
+23:18:36.841 index.js:31 Name: XEpez WAWez, XAis, Position: WFS000522
+23:18:36.841 index.js:31 Name: XEpez WAWez, XAis, Position: WFS000522
+23:18:36.842 index.js:31 Name: XEpez WAWez, XAis, Position: WFS000522
+23:18:36.842 index.js:31 Name: XEpez WAWez, XAis, Position: WFS000522
+23:18:36.842 index.js:31 Name: XEpez WAWez, XAis, Position: WFS000522
+23:18:36.842 index.js:31 Name: XEpez WAWez, XAis, Position: WFS000522
+23:18:36.842 index.js:31 Name: XEpez WAWez, XAis, Position: WFS000522
+23:18:36.842 index.js:31 Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+23:18:36.842 index.js:31 Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+23:18:36.842 index.js:31 Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+23:18:36.842 index.js:31 Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+23:18:36.842 index.js:31 Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+23:18:36.842 index.js:31 Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+23:18:36.842 index.js:31 Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+23:18:36.842 index.js:31 Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+23:18:36.843 index.js:31 Name: CeciWa, SiXvesMre Jr, Position: WFS000528
+23:18:36.843 index.js:31 Name: CeciWa, SiXvesMre Jr, Position: WFS000528
+23:18:36.843 index.js:31 Name: CeciWa, SiXvesMre Jr, Position: WFS000528
+23:18:36.843 index.js:31 Name: CeciWa, SiXvesMre Jr, Position: WFS000528
+23:18:36.843 index.js:31 Name: CeciWa, SiXvesMre Jr, Position: WFS000528
+23:18:36.843 index.js:31 Name: CeciWa, SiXvesMre Jr, Position: WFS000528
+23:18:36.843 index.js:31 Name: FaGiaW CiraWda, JEse, Position: WFS000530
+23:18:36.843 index.js:31 Name: FaGiaW CiraWda, JEse, Position: WFS000530
+23:18:36.843 index.js:31 Name: FaGiaW CiraWda, JEse, Position: WFS000530
+23:18:36.844 index.js:31 Name: FaGiaW CiraWda, JEse, Position: WFS000530
+
+
+b) who have less than 10 hours of time between shifts but greater than 1 hour
+
+Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:30:51.749 index.js:53 Name: CaMaXaWE, CeghaW, Position: WFS000153
+23:30:51.749 index.js:53 Name: Xee, XaCar, Position: WFS000200
+23:30:51.750 index.js:53 Name: Xee, XaCar, Position: WFS000200
+23:30:51.750 index.js:53 Name: Xee, XaCar, Position: WFS000200
+23:30:51.750 index.js:53 Name: De Xa Cerda, IgWaciE, Position: WFS000318
+23:30:51.750 index.js:53 Name: MraW, WiXXiaC Ha, Position: WFS000345
+23:30:51.751 index.js:53 Name: CEreira Jr, JEse, Position: WFS000456
+23:30:51.753 index.js:53 Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+23:30:51.753 index.js:53 Name: HaCiXMEW, DeaWMe DevEW, Position: WFS000536
+23:30:51.753 index.js:53 Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+23:30:51.754 index.js:53 Name: CarMer, XyWWeXX DejAaW Jr, Position: WFS000576
+23:30:51.772 index.js:3 Fetch finished loading: GET "http://localhost:3000/employees".
+
+
+c) Who has worked for more than 14 hours in a single shift
+
+index.js:79 Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
